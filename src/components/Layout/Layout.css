@@ -1,0 +1,22 @@
+.layout-container {
+    height: 10vh;
+}
+
+#navigation {
+    position: fixed;
+    left: 0;
+    top: 25vh;
+    z-index: 9997;
+}
+
+#nav-list {
+    list-style: none;
+}
+
+.nav-titles {
+    padding-left: 20px;
+}
+
+.bi {
+    font-size: 26px;
+}
